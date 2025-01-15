@@ -10,7 +10,6 @@ A modern web application for managing a database of colors, allowing users to ad
 - **Dynamic Reordering**: Drag and drop to reorder color entries.
 - **Live Preview**: View colors dynamically in the table with proper contrast adjustments.
 - **Responsive Design**: Ensures usability across all devices.
-- **Secure Configurations**: Sensitive files and unnecessary directories excluded via `.gitignore`.
 
 ---
 
