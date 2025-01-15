@@ -21,16 +21,7 @@ A modern web application for managing a database of colors, allowing users to ad
 
 ---
 
-## Setup Instructions
-
-Follow these steps to get the project running on your local machine:
-
 ### Prerequisites
 - Visual Studio (with .NET Framework)
 - Microsoft SQL Server
 - Git
-
-### Steps
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/<YourUsername>/ColorManager.git
