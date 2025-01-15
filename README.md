@@ -1,4 +1,4 @@
-# ColorManager
+# 🎨ColorManager🎨    
 
 A modern web application for managing a database of colors, allowing users to add, update, delete, and reorder color entries. This project demonstrates CRUD operations, a responsive interface, and modern styling.
 
