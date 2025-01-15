@@ -18,7 +18,6 @@ A modern web application for managing a database of colors, allowing users to ad
 - **Frontend**: ASP.NET Web Forms, CSS, JavaScript, jQuery, and jQuery UI for drag-and-drop functionality.
 - **Backend**: VB.NET for server-side logic and SQL Server for data persistence.
 - **Database**: Microsoft SQL Server.
-- **Version Control**: Git for managing source code changes.
 
 ---
 
