@@ -1,8 +1,60 @@
+@ -1,8 +1,54 @@
 ﻿Web.config
 *.suo
 *.user
 *.log
 node_modules/
+﻿# Build Folders
 bin/
 obj/
 .vs/
+
+# Visual Studio
+*.user
+*.suo
+*.cache
+*.pdb
+*.aps
+*.ncb
+*.opendb
+*.VC.db
+
+# Visual Studio Code
+.vscode/
+
+# System Files
+.vs/
+node_modules/
+packages/
+Thumbs.db
+*.DS_Store
+
+# Logs and Temporary Files
+*.log
+*.tmp
+
+# Configuration Files
+*.config
+*.settings
+
+# SQL Files
+*.sql
+
+# Backup Files
+*.bak
+*.old
+*.swp
+
+# Ignore compiled files
+*.exe
+*.dll
+*.class
+*.pyc
+*.o
+
+# Personal Files
+*.env
+*.secret
+
+# Ignore deployment-specific files
+.idea/
