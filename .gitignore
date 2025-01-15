@@ -1,0 +1,8 @@
+﻿Web.config
+*.suo
+*.user
+*.log
+node_modules/
+bin/
+obj/
+.vs/
