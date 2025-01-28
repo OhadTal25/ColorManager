@@ -3,7 +3,7 @@
 *.suo
 *.user 
 *.log
-node_modules/
+node_modules/ 
 ﻿# Build Folders
 bin/
 obj/
