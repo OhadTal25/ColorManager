@@ -1,7 +1,7 @@
 @ -1,8 +1,54 @@
 ﻿Web.config
 *.suo
-*.user
+*.user 
 *.log
 node_modules/
 ﻿# Build Folders
