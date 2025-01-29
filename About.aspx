@@ -5,5 +5,5 @@
         <h2 id="title"><%: Title %>.</h2>
         <p>Your app description page.</p>
         <p>Use this area to provide additional information.</p>
-    </main>
+    </main> 
 </asp:Content>
